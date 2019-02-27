@@ -23,9 +23,6 @@ function doGet(e) {
  * Returns null if spreadsheet does not contain more than one row.
  */
 function getSpreadsheetData() {
-  // This does not work, see https://code.google.com/p/google-apps-script-issues/issues/detail?id=5233
-  //  var ss = SpreadsheetApp.getActiveSpreadsheet();
-  //  var data = ss.getSheets()[0].getDataRange().getValues();
   var sheetId = '1TVzDS3ab-VZNNCNxkhO5yBmK7CC5AhLWgL48tRfWJmk';  // spreadsheet ID. 
   var data = SpreadsheetApp.openById(sheetId).getSheets()[0].getDataRange().getValues();
   return (data.length > 1) ? data : null;
