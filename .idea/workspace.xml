@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../java_projects/bb4-common" value="4321560336468" />
+        <entry key="$PROJECT_DIR$/../../java_projects/bb4-simulations" value="1451846675231" />
+        <entry key="$PROJECT_DIR$/../../java_projects/bb4-ui" value="1440954626168" />
+        <entry key="$PROJECT_DIR$/../../java_projects/code-quest-problems" value="2963984958517" />
+        <entry key="$PROJECT_DIR$/../../scala_projects/stable-maching" value="1479039692102" />
+        <entry key="$PROJECT_DIR$/../../temp/code-quest-practice-problems" value="1482941710000" />
+        <entry key="$PROJECT_DIR$/../../temp/code-quest-problems" value="1482934346242" />
+        <entry key="$PROJECT_DIR$/../../temp/cqpp" value="1482957056433" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../Matrix-Profile" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-Q-learning" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-aikido-app" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-common" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-experimentation" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-image-breeder" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-imageproc" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-jr-trading" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-project-template" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-puzzles" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../bb4/bb4-sound" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1717" />
+    <option name="y" value="-7" />
+    <option name="width" value="2214" />
+    <option name="height" value="1564" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Global Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+    </configuration>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/../../java_projects/scala/codechef-scala" value="1474127949377" />
+        <entry key="$PROJECT_DIR$/../../java_projects/scala/spark-MDLP-discretization" value="1475347721611" />
+        <entry key="$PROJECT_DIR$/../../scala_projects/CalculatePI_ScalaAkka" value="1481382203980" />
+        <entry key="$PROJECT_DIR$/../../scala_projects/akka" value="71106165150300" />
+        <entry key="$PROJECT_DIR$/../../scala_projects/codechef-scala" value="1475341375753" />
+        <entry key="$PROJECT_DIR$/../../scala_projects/fpinscala" value="1479523858199" />
+        <entry key="$PROJECT_DIR$/../../scala_projects/spark-jobserver" value="1478441755931" />
+        <entry key="E:/thirdparty/doodle-develop" value="1480166418434" />
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>scala-sdk-2.11.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
